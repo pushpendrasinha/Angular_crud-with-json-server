@@ -1,0 +1,28 @@
+{
+  "Employee": [
+    {
+      "id": 5,
+      "firstName": "Navodita",
+      "lastName": "Kumari",
+      "designation": "Backend Developer",
+      "contactNumber": "12122",
+      "address": "Dhanbad"
+    },
+    {
+      "id": 6,
+      "firstName": "Pushpendra",
+      "lastName": "Sinha",
+      "designation": "Frontend developer",
+      "contactNumber": "12121",
+      "address": "Gurgaon"
+    },
+    {
+      "id": 7,
+      "firstName": "Ankit",
+      "lastName": "Sinha",
+      "designation": "Fullstack Developer",
+      "contactNumber": "122222",
+      "address": "Gurgaon"
+    }
+  ]
+}
